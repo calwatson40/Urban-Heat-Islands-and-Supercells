@@ -24,7 +24,7 @@ The strength of updrafts depend on the intensity of UHIs heating region and wind
 There is little understanding about the interaction between UHIs and supercellular convection, especially tornadoes. In general, tornado density is approximately 1.85 times higher in metropolitan areas than in the most densely populated non-metro areas (Cusack 2014). What is known, though, is that UHIs have a more significant role in influencing supercells as they move over a city, which may contribute to increased tornado density.
 
 ## Code
-Reproduced Figure of Maximum Reflectivity Values during a thunderstorm over Omaha, Nebraska's UHI, included from Sean T. Campbell's journal "Urban heat island enhancement to deep moist convection over Omaha, Nebrasa, in late June and early July of 2008."
+Reproduced Figure of Maximum Reflectivity Values during a thunderstorm over Omaha, Nebraska's UHI, included from Sean T. Campbell's journal "Urban heat island enhancement to deep moist convection over Omaha, Nebrasa, in late June and early July of 2008." This is titled "Homework #3" in the repository.
 
 ![image](https://user-images.githubusercontent.com/89586662/234396527-c445696c-54da-4edd-84cf-3839bfe7127d.png)
 
