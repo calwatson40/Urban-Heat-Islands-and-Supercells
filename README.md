@@ -29,7 +29,7 @@ Reproduced Figure of Maximum Reflectivity Values during a Thunderstorm over Omah
 ![image](https://user-images.githubusercontent.com/89586662/234396527-c445696c-54da-4edd-84cf-3839bfe7127d.png)
 
 ## Further Research (Capstone)
-Conduct additional case studies into UHI-induced convection, particularly tornadic events to uncover how to incorporate UHIs into the forecasting process for severe weather.
+Conduct additional case studies into UHI-induced convection, particularly tornadic events, to uncover how to incorporate UHIs into the forecasting process for severe weather.
 
 ## Research Question
 How do UHIs impact the environment for supercellular development? Do UHIs enhance the likelihood of tornadoes?
