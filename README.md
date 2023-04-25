@@ -18,7 +18,7 @@ They occur in several major U.S. cities, exacerbating intense heat waves and sto
 ![Alexandre-Affonso](https://user-images.githubusercontent.com/89586662/234395890-45329584-ef95-49b0-9a3a-5c2a3ded3d63.jpg)
 
 ### How do UHIs impact Convection?
-The strength of updrafts depend on the intensity of UHIs heating region and wind speeds. As heating amplitude increases, the time required for rainwater to accumulate decreases significantly. Higher surface temperatures provide a greater chance for rainfall, according to dry and moist convective simulations conducted by Baik et al. 2001.
+The strength of updrafts depend on the intensity of UHIs heating region and wind speeds. As heating amplitude increases, the time required for rainwater to accumulate decreases significantly. Higher surface temperatures provide a greater chance for rainfall, according to dry and moist convective simulations conducted by Baik et al. (2001).
 
 ### Do UHIs have any impact on Tornado Density?
 There is little understanding about the interaction between UHIs and supercellular convection, especially tornadoes. In general, tornado density is approximately 1.85 times higher in metropolitan areas than in the most densely populated non-metro areas (Cusack 2014). What is known, though, is that UHIs have a more significant role in influencing supercells as they move over a city, which may contribute to increased tornado density.
