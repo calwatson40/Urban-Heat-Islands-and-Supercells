@@ -8,17 +8,11 @@ This is a temporary script file.
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Title
-# The purpose of this Jupyter Notebook is to demonstrate how . . .
+# #Urban Heat Islands and Maximum Reflectivity Values during Thunderstorms
+# The purpose of this Jupyter Notebook is to demonstrate how maximum reflectivity values increase during thunderstorms over urban heat islands (UHIs).
 #
 # ## Where did the data come from?
-# The data were downloaded from the NOAA National Center for Environmental Information. - - - EDIT THIS!
-# Details about the database and the data files are available here:
-# https://www.ncdc.noaa.gov/stormevents/details.jsp
-#
-# ## What Files are there
-# * 
-# In[1]:
+# The data were downloaded from the National Climatic Data Center (NCDC)'s archive of weather data
 
 
 # Imports
