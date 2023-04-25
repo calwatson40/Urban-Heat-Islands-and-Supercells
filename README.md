@@ -35,5 +35,5 @@ Conduct additional case studies into UHI-induced convection, particularly tornad
 How do UHIs impact the environment for supercellular development? Do UHIs enhance the likelihood of tornadoes?
 
 ## Sources
-Baik, Jong-Jin, Kim, Yeon-Hee, and Chun, Hye-Yeong (2001). Dry and Moist Convection Forced by an Urban Heat Island. Journal of Applied Meteorology and Climatology, 40 (8), 1462–1475, https://doi.org/10.1175/1520-0450(2001)040%3C1462:DAMCFB%3E2.0.CO;2.
-Cusack, S. (2014). Increased tornado hazard in large metropolitan areas. Atmospheric Research, 149, 255–262, https://doi.org/10.1016/j.atmosres.2014.06.015.
+Baik, Jong-Jin, Kim, Yeon-Hee, and Chun, Hye-Yeong (2001). Dry and Moist Convection Forced by an Urban Heat Island. Journal   of Applied Meteorology and Climatology, 40 (8), 1462–1475, https://doi.org/10.1175/1520-                                   0450(2001)040%3C1462:DAMCFB%3E2.0.CO;2. <br> <br>
+Cusack, S. (2014). Increased tornado hazard in large metropolitan areas. Atmospheric Research, 149, 255–262,                 https://doi.org/10.1016/j.atmosres.2014.06.015.
