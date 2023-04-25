@@ -4,7 +4,7 @@ This is a repository for a literature review project in METR 3334 at the Univers
 
 ## Topic: The Impacts of Urban Heat Islands on Supercells
 
-## Key Findings:
+## Key Findings
 
 ### What are Urban Heat Islands (UHIs)?
 *Key Characteristics:*
